@@ -1,3 +1,6 @@
+> # Deprecation notice: this example repo is no longer the way to use the latest istanbul APIs.
+> see: https://istanbul.js.org/docs/tutorials/es2015/
+
 sample-babel-node
 =================
 
